@@ -1,5 +1,21 @@
-sample line 
-sample line 
-sample line 
-sample line 
-sample line 
+Listing Advance python topics
+
+> Comprehension
+
+> Comprehension
+
+> Closure and Decorator
+
+> Generator and Iterators Protocol
+
+> Context Managers
+
+> Extended Keyword Arguments (*args, **kwargs)
+
+> staticmethod and @classmethod
+
+> Inheritance and Encapsulation
+
+> Operator Overloading
+
+> Python Packages and Program layout

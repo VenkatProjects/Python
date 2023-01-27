@@ -1,4 +1,5 @@
 with open("sample.txt", 'r') as f:
-    for l in f.readlines(): print(l , end = "")
+    for load in f.readlines(): 
+        print(load)
     
 
