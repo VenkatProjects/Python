@@ -1,0 +1,3 @@
+ Dummmy file to excute the list of files from the data directory 
+
+#Please run the listdr.py file from /python/listdr.py

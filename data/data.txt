@@ -1,0 +1,3 @@
+This text file will will print through list direcory py file
+
+#Please run the listdr.py file from /python/listdr.py

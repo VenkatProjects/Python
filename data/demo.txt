@@ -1,0 +1,4 @@
+
+demo file has created for find the number of files located in the 'data' directory 
+
+#Please run the listdr.py file from /python/listdr.py
