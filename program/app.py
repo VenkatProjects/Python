@@ -4,7 +4,7 @@ print(sal)
 
 sal["sa"] = 25
 
-del sal["sa"]
+#del sal["sa"]
 print(sal)
 
 for key, val in sal.items():

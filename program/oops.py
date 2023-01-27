@@ -4,7 +4,7 @@ class Dog:
         print("object with name: {} created".format(name))
 
     def talk (self):
-        print("woof!")
+        print("wolf!")
 
     def printName(self):
         print("my name is : {}".format(self.name))
@@ -12,14 +12,14 @@ class Dog:
     def __str__(self):
         return self.name    
 
-venkat = Dog("Venkat")
-divya = Dog("Divya")
+tintin = Dog("tintin")
+jack = Dog("jack")
 
-venkat.talk()
-divya.talk()
-venkat.printName()
-divya.printName()
+tintin.talk()
+jack.talk()
+tintin.printName()
+jack.printName()
 
-print(venkat)
-print(divya)
+print(tintin)
+print(jack)
 
